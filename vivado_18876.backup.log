@@ -1,0 +1,23 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Mon Feb 25 22:16:45 2019
+# Process ID: 18876
+# Current directory: C:/Users/Asus/Desktop/vivado/0127DemoOncesi
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18480 C:\Users\Asus\Desktop\vivado\0127DemoOncesi\0127DemoOncesi.xpr
+# Log file: C:/Users/Asus/Desktop/vivado/0127DemoOncesi/vivado.log
+# Journal file: C:/Users/Asus/Desktop/vivado/0127DemoOncesi\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Asus/Desktop/vivado/0127DemoOncesi/0127DemoOncesi.xpr
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2018.2/data/ip'.
+open_project: Time (s): cpu = 00:00:13 ; elapsed = 00:00:22 . Memory (MB): peak = 792.531 ; gain = 111.563
+update_compile_order -fileset sources_1
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Mon Feb 25 23:18:44 2019...
